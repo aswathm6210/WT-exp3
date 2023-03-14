@@ -1,0 +1,40 @@
+.a{
+    background-color:wheat;
+}
+.container{
+    background-color:wheat;
+    padding-left: 20px;
+    border-radius:  5px ;
+    box-shadow: 3px 3px  blanchedalmond;
+}
+.b{
+    text-align: center;
+    color: black;
+}
+.d{
+    color: darkblue;
+    padding-left: 100px;
+    float:left;
+}
+.e{
+    padding-left: 70%;
+}
+.f{
+    padding-left: 0%;
+}
+.g{
+    color: black;
+    text-align: center;
+    background-color: rgb(194, 16, 28);
+    
+}
+li.list-group-item{
+    padding-left:0px;
+    background-color: rgb(187, 20, 29);
+}
+.z{
+    margin: 300px;
+    text-align: center;
+    color: black;
+    margin-top: 100px;
+}
